@@ -1,0 +1,33 @@
+_repo: The-Seventeenth-Highland-Light-Infantry--Glasgow-Chamber-of-Commerce-Battalion---13-Record-of__20136
+_version: 0.1.0
+alternative_title: "17th Highland Light Infantry (Glasgow Chamber of Commerce Battalion)\r\
+  \nRecord of War Service, 1914-1918"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Arthur, John W.
+    gutenberg_agent_id: '9102'
+    url: http://www.gutenberg.org/2009/agents/9102
+  - agent_name: Munro, Ion S. (Ion Smeaton)
+    alias: Munro, Ion Smeaton
+    gutenberg_agent_id: '9103'
+    url: http://www.gutenberg.org/2009/agents/9103
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army. Highland Light Infantry'
+- !lcc 'D501'
+title: "The Seventeenth Highland Light Infantry (Glasgow Chamber of Commerce Battalion)\r\
+  \nRecord of War Service, 1914-1918"
+url: http://www.gutenberg.org/ebooks/20136
